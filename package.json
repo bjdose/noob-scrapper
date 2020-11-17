@@ -1,0 +1,22 @@
+{
+  "name": "justo-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "nodemon --inspect index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^2.7.0",
+    "@tensorflow/tfjs-node": "^2.7.0",
+    "puppeteer": "^5.4.1",
+    "puppeteer-core": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
