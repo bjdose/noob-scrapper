@@ -12,8 +12,8 @@ async function startBrowser(){
             headless: false,
             devtools: false,
             args:[
-                /* '--user-data-dir=/Users/brayansalcedo/Library/Application\ Support/Google/Chrome',
-                '--profile-directory=Default', */
+               /*  '--user-data-dir=/Users/brayansalcedo/Library/Application\ Support/Google/Chrome', */
+                '--profile-directory=Default',
                 '--disable-setuid-sandbox',
                 '--no-sandbox'
             ]

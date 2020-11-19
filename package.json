@@ -13,8 +13,10 @@
     "@tensorflow-models/mobilenet": "^2.0.4",
     "@tensorflow/tfjs": "^2.7.0",
     "@tensorflow/tfjs-node": "^2.7.0",
+    "axios": "^0.21.0",
     "puppeteer": "^5.4.1",
-    "puppeteer-core": "^5.4.1"
+    "puppeteer-core": "^5.4.1",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"

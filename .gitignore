@@ -1,1 +1,6 @@
 node_modules
+.DS_Store
+
+data
+images/no-match
+images/match
