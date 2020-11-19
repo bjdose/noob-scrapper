@@ -1,4 +1,4 @@
-const pageScraper = require('./justo-scrapper');
+const pageScraper = require('./page-scrapper');
 const fs = require('fs');
 
 async function scrapeAll(browserInstance, category){

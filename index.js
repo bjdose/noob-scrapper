@@ -1,5 +1,5 @@
 const browserObject = require('./browser');
-const scraperController = require('./justo-controller');
+const scraperController = require('./page-controller');
 
 //Start the browser and create a browser instance
 const browserInstance = browserObject.startBrowser();
